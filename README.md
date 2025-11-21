@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋💛 I'm Lamis AH 👩🏻‍💻</h1>
-<h3 align="center">A backend developer 🔙🔚currently in Algeria 🇩🇿 </h3>
+<h1 align="center">Hi 👋💛This is Lamis AH 👩🏻‍💻</h1>
+<h3 align="center">A student in CS🤓currently in Algeria 🇩🇿 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
 
-- 👨‍💻 All of my projects are available at [gethub](gethub)
+- 👨‍💻 All of my projects are available at [github](github)
 
 - 📫 How to reach me **masilaindia6@gmail.com**
 
